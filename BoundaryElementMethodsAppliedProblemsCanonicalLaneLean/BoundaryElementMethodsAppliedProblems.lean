@@ -1,0 +1,20 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.BoundaryElementMethodsAppliedProblems.BEMAdmissibleObject
+import HautevilleHouse.BoundaryElementMethodsAppliedProblems.BEMBridgeLemmas
+import HautevilleHouse.BoundaryElementMethodsAppliedProblems.BEMGateLemmas
+import HautevilleHouse.BoundaryElementMethodsAppliedProblems.BEMIntegralEquation
+import HautevilleHouse.BoundaryElementMethodsAppliedProblems.BEMFinalTheorem
+
+/-!
+# Boundary Element Methods Applied Problems - Root Package
+
+This package formalizes the admissible-closure framework for boundary element methods.
+-/
+
+namespace HautevilleHouse
+namespace BoundaryElementMethodsAppliedProblems
+
+-- Additional global definitions can be placed here.
+
+end BoundaryElementMethodsAppliedProblems
+end HautevilleHouse
